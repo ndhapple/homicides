@@ -308,6 +308,10 @@ table td::before {
 	font-weight: bold;
 }
 
+table td {
+	min-height: 25px;
+}
+
 
 
 /*detail page*/
